@@ -1,19 +1,19 @@
 {
-  "name": "font-observer",
-  "version": "1.0.1",
-  "description": "a small util for font loader",
-  "main": "./dist/index.js",
-  "files": [
-    "dist"
-  ],
-  "license": "Apache 2.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anishmprasad/font-observer.git"
-  },
-  "author": "Anish M Prasad",
-  "bugs": {
-    "url": "https://github.com/anishmprasad/font-observer/issues"
-  },
-  "homepage": "https://github.com/anishmprasad/font-observer#readme"
+	"name": "font-observer",
+	"version": "1.0.2",
+	"description": "a small util for font loader",
+	"main": "./dist/index.js",
+	"files": [
+		"dist"
+	],
+	"license": "Apache 2.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anishmprasad/font-observer.git"
+	},
+	"author": "Anish M Prasad",
+	"bugs": {
+		"url": "https://github.com/anishmprasad/font-observer/issues"
+	},
+	"homepage": "https://github.com/anishmprasad/font-observer#readme"
 }
